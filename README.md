@@ -1,4 +1,5 @@
-Welcome to the ATM Project
+##Welcome to the ATM Project
+
 Project info
 
 URL: https://github.com/NamishV117/ATM_simulator_flask
@@ -22,24 +23,24 @@ The only requirement is having Python, Node.js, and npm installed - install with
 
 Follow these steps:
 
-# Step 1: Clone the repository using the project's Git URL.
+ Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/NamishV117/ATM_simulator_flask.git
 
-# Step 2: Navigate to the project directory.
+Step 2: Navigate to the project directory.
 cd ATM
 
-# Step 3: Install the necessary dependencies.
-# Install Backend Dependencies
+Step 3: Install the necessary dependencies.
+Install Backend Dependencies
 cd flask_backend
 pip install -r requirements.txt
 
-# Install Frontend Dependencies
+Install Frontend Dependencies
 cd ../frontend
 npm install
 
-# Step 4: Start the development server for frontend.
+Step 4: Start the development server for frontend.
 npm run dev
 
-# Step 5: Start the backend server.
-# From the flask_backend folder
+Step 5: Start the backend server.
+From the flask_backend folder
 python run.py
