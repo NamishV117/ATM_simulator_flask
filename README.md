@@ -1,4 +1,4 @@
-##Welcome to the ATM Project
+#Welcome to the ATM Project
 
 Project info
 
